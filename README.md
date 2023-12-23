@@ -17,7 +17,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<table border="1">
+<table>
         <tbody>
             <tr>
                 <td align="center">
