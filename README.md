@@ -22,4 +22,4 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aafiqah&show_icons=true&locale=en&layout=compact" alt="aafiqah" /></p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/lezjoy8"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="lezjoy8" /></a><a href="https://www.buymeacoffee.com/lezjoy8"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lezjoy8" /></a> </p>
+<p><a href="https://ko-fi.com/aafiqah"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="aafiqah" /></a><a href="https://www.buymeacoffee.com/aafiqah"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aafiqah" /></a> </p>
