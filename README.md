@@ -21,10 +21,10 @@
         <tbody>
             <tr>
                 <td align="center">
-                    <h5>Programming Languages</h5>
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
+                    <h5>Programming Languages</h5>                    
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
                 </td>
                 <td align="center">
                     <h5>Frontend Development</h5>
@@ -55,7 +55,10 @@
                     <h5>Software</h5>
                     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40">
                     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40">
-                    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="XD" width="40" height="40">
+                    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="XD" width="40" height="40">  
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1776px-Apache_NetBeans_Logo.svg.png" alt="PyCharm" width="40" height="40"> 
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" alt="PyCharm" width="40" height="40"> 
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="PyCharm" width="40" height="40">                  
                 </td>
                 <td align="center">
                     <h5>Static Site Generators</h5>
@@ -73,7 +76,7 @@
 
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aafiqah&show_icons=true&locale=en&layout=compact" alt="aafiqah" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aafiqah&show_icons=true&locale=en&layout=compact" alt="aafiqah" /></p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/aafiqah"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="aafiqah" /></a><a href="https://www.buymeacoffee.com/aafiqah"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aafiqah" /></a> </p>
+<p><a href="https://ko-fi.com/aafiqah"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="aafiqah" /></a> </p>
