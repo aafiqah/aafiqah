@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alessa Johar</h1>
 <h3 align="center">I love exploring new things!</h3>
 
-- 🌱 I’m currently learning **flutter mobile application project**
+- 🌱 I’m currently learning **HTML, CSS, Bootstrap**
 
-- 👯 I’m looking to collaborate on **Flutter Project**
+- 👯 I’m looking to collaborate on **Front End Development Project**
 
 - 👨‍💻 All of my projects are available at [https://alessajohar.netlify.app/](https://alessajohar.netlify.app/)
 
