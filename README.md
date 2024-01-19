@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alessa Johar</h1>
 <h3 align="center">I love exploring new things!</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, Bootstrap**
+- 🌱 I’m currently learning **Flutter Development**
 
 - 👯 I’m looking to collaborate on **Front End Development Project**
 
