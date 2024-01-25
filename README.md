@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Front End Development Project**
 
-- 👨‍💻 All of my projects are available at [https://alessajohar.netlify.app/](https://alessajohar.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://alessaafiqahjohar.netlify.app/](https://alessaafiqahjohar.netlify.app/)
 
 - 📫 How to reach me **alessajohar@gmail.com**
 
