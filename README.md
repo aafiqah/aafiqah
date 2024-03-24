@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alessa Afiqah</h1>
-<h3 align="center">I love exploring new things!</h3>
+<h1>Hi 👋, I'm Alessa Afiqah</h1>
+<h3>I love exploring new things!</h3>
 
 - 🌱 I’m currently learning **Flutter Development**
 
