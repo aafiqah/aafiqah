@@ -9,12 +9,11 @@
 
 - 📫 How to reach me **alessajohar@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://my.linkedin.com/in/alessaafiqahjohar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alessafiqahjohar" height="30" width="40" /></a>
+<!-- <p align="left"> -->
+<!-- <a href="https://my.linkedin.com/in/alessaafiqahjohar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alessafiqahjohar" height="30" width="40" /></a> -->
 <!-- <a href="https://instagram.com/fykalessa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lezjoy8" height="30" width="40" /></a> -->
-<a href="https://www.youtube.com/@lezjoy8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lezjoy8" height="30" width="40" /></a>
-</p>
+<!-- <a href="https://www.youtube.com/@lezjoy8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lezjoy8" height="30" width="40" /></a> -->
+<!-- </p> -->
 
 <h3 align="left">Languages and Tools:</h3>
 <table border="1">
